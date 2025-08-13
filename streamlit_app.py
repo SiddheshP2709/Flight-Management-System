@@ -5,11 +5,11 @@ from streamlit_option_menu import option_menu
 import pandas as pd
 
 # Import pages
-import pages.search_flights as search_flights_manual
-import pages.view_graph as view_graph
-import pages.view_mst as view_mst
-import pages.tsp_trip_planner as tsp_trip_planner
-import pages.real_time_flights as real_time_flights
+import search_flights as search_flights_manual
+import view_graph as view_graph
+import view_mst as view_mst
+import tsp_trip_planner as tsp_trip_planner
+import real_time_flights as real_time_flights
 
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="Flight Management System", layout="wide")
@@ -42,4 +42,5 @@ elif selected == "MST - Prim's":
 elif selected == "Trip Planner":
     tsp_trip_planner.app()
 elif selected == "Real Time Flights":
+
     real_time_flights.app()
