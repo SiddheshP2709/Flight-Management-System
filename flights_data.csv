@@ -1,0 +1,52 @@
+source,destination,price,time,airline
+Delhi,Mumbai,4000,120,IndiGo
+Mumbai,Bangalore,3500,100,Air India
+Delhi,Bangalore,7000,150,SpiceJet
+Chennai,Delhi,5500,160,Vistara
+Hyderabad,Mumbai,3000,90,GoAir
+Kolkata,Chennai,4500,140,IndiGo
+Mumbai,Chennai,3700,130,SpiceJet
+Delhi,Hyderabad,4800,150,Vistara
+Bangalore,Chennai,3200,80,Air India
+Chennai,Kolkata,5000,170,IndiGo
+Mumbai,Hyderabad,3100,100,GoAir
+Bangalore,Kolkata,6100,200,Vistara
+Hyderabad,Kolkata,4200,160,IndiGo
+Delhi,Chennai,5300,180,SpiceJet
+Mumbai,Delhi,3900,110,Akasa
+Chennai,Hyderabad,2700,90,Air India
+Kolkata,Delhi,6100,200,Vistara
+Hyderabad,Bangalore,2900,70,IndiGo
+Mumbai,Bangalore,3300,85,SpiceJet
+Bangalore,Delhi,5800,180,GoAir
+Chennai,Mumbai,3600,120,Jet Airways
+Delhi,Kolkata,6000,190,Vistara
+Hyderabad,Delhi,5200,150,IndiGo
+Kolkata,Mumbai,4500,160,Air India
+Mumbai,Kolkata,4600,155,SpiceJet
+Delhi,Pune,3800,100,GoAir
+Pune,Mumbai,2100,45,IndiGo
+Bangalore,Pune,3200,90,Akasa
+Chennai,Pune,3400,110,Jet Airways
+Hyderabad,Pune,3000,100,SpiceJet
+Delhi,Ahmedabad,4000,120,Air India
+Ahmedabad,Mumbai,2800,90,Vistara
+Pune,Hyderabad,3100,105,GoAir
+Mumbai,Ahmedabad,2600,80,IndiGo
+Chennai,Ahmedabad,4100,140,SpiceJet
+Bangalore,Ahmedabad,3900,130,Air India
+Hyderabad,Ahmedabad,3700,120,Vistara
+Delhi,Jaipur,2500,60,Akasa
+Jaipur,Mumbai,3300,100,Jet Airways
+Chennai,Jaipur,4200,160,GoAir
+Mumbai,Goa,2900,75,IndiGo
+Goa,Bangalore,3100,95,SpiceJet
+Hyderabad,Goa,2700,80,Jet Airways
+Goa,Delhi,4400,140,Air India
+Kolkata,Goa,5500,200,Vistara
+Goa,Mumbai,3000,70,Akasa
+Bangalore,Mumbai,3500,100,IndiGo
+Ahmedabad,Chennai,4100,150,SpiceJet
+Pune,Delhi,3900,110,Air India
+Jaipur,Bangalore,3700,120,GoAir
+Ahmedabad,Delhi,2500,150,SpiceJet
